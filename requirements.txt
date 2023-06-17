@@ -1,0 +1,6 @@
+cloudpickle
+Farama-Notifications
+gymnasium
+jax-jumpy
+numpy
+typing_extensions
